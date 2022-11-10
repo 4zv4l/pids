@@ -1,5 +1,5 @@
 # pids
-a (not really) IDS made in Ruby that triggers when a tcp pkt contains /hack/i
+a (not really) IDS made in Perl that triggers when a tcp pkt contains /hack/i
 
 ## what does it do
 Simply listening on `lo` interface 'loopback' and print a packet if it
